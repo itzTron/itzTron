@@ -33,4 +33,3 @@ fact : "EVERYTHING CAN BE HACKED!!"
 
 ![itzTron's Stats](https://github-readme-stats.vercel.app/api?username=itzTron&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
-![itzTron's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzTron&theme=algolia&hide_border=true)
