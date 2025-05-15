@@ -26,7 +26,7 @@ const aboutMe = {
   currentOccupation: "Student, open for internship & Job opportunities",
   challenges:
     "I Love taking challenges"
-  funFact: "I love automated tools for hackers" 🤖🔧",
+  funFact: "I love automated tools for hacking" 🤖🔧",
 fact : "EVERYTHING CAN BE HACKED!!"
 };
 ```
