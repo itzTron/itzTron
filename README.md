@@ -20,7 +20,7 @@ const aboutMe = {
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
       packageManager: ["Apt", "Gdebi", "Snap"],
-      codeEditor: ["Visual Studio Code", "Sublime Text", "VIM","Nano"],
+      codeEditor: ["Visual Studio Code", "Sublime Text", "VIM","Nano","Cursor"],
     },
   },
   currentOccupation: "Student, open for internship & Job opportunities",
