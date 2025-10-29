@@ -1,4 +1,4 @@
-# <img src="wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm TANMOY NASKAR | YOUR NEIGHBOUR HACKER!! 
+# <img src="wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm TANMOY NASKAR, an aspiring Data and Cybersecurity Anlysist!! 
 
 [![](https://img.shields.io/instagram/follow/https://www.instagram.com/itztony.sh/?logo=twitter&style=for-the-b<adge&color=3382ed&labelColor=0f172a)](https://instagram.com/https://www.instagram.com/itztony.sh/)
 
