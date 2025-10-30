@@ -72,6 +72,12 @@ fact : "time is what determines security. with enough time, nothing is unhackabl
      <a href="https://https://github.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="python" width="40" height="40"/>
   </a>
+    <a href="https://https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="python" width="40" height="40"/>
+      <!-- <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/#/#-original.svg" alt="python" width="40" height="40"/> -->
+  </a>
+  </a>
 </p>
 
   ![itzTron's Stats](https://github-readme-stats.vercel.app/api?username=itzTron&theme=algolia&show_icons=true&hide_border=true&count_private=true)
