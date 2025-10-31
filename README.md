@@ -72,7 +72,7 @@ fact : "time is what determines security. with enough time, nothing is unhackabl
      <a href="https://https://github.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="python" width="40" height="40"/>
   </a>
-    <a href="https://https://github.com" target="_blank" rel="noreferrer">
+    <a href="https://https://powershell.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="python" width="40" height="40"/>
       <!-- <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/#/#-original.svg" alt="python" width="40" height="40"/> -->
