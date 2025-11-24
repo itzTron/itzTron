@@ -2,8 +2,6 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-[![](https://img.shields.io/instagram/follow/https://www.instagram.com/itztony.sh/?logo=twitter&style=for-the-b<adge&color=3382ed&labelColor=0f172a)](https://instagram.com/https://www.instagram.com/itztony.sh/)
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+Science+Student;Open-Source+Contributor;Diploma+Computer+Science;1%2B+Years+in+Cybersecurity+Domain;Aspiring+Data+Analyst;Looking+For+Internship+And+Job+Oppurtunities)
 
 ##  About Myself:
