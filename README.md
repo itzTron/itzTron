@@ -36,7 +36,7 @@ fact : "time is what determines security. with enough time, nothing is unhackabl
 <h3 align="center">
 
 <!-- Language and Tools Section Here -->
-<h1 align="left">🛠 Language and Tools</h1>
+<h1 align="left">🛠 Languages and Tools</h1>
 
 <!-- Vector Tool Gif -->
 <p align='center'>
