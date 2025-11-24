@@ -78,5 +78,3 @@ fact : "time is what determines security. with enough time, nothing is unhackabl
   </a>
 </p>
 
-  ![itzTron's Stats](https://github-readme-stats.vercel.app/api?username=itzTron&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-
