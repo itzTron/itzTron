@@ -26,7 +26,7 @@ const aboutMe = {
   currentOccupation: "Student, open for internship & Job opportunities",
   challenges:
     "I Love taking challenges"
-  funFact: "I love automated tools for hacking" 🤖🔧",
+  funFact: "I love how AI doing my boring stuff" 🤖🔧",
 fact : "time is what determines security. with enough time, nothing is unhackable!!"
 };
 ```
