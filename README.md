@@ -12,7 +12,7 @@ const aboutMe = {
   email: "tanmoyn681@gmail.com",
   languages: ["Python", "JavaScript", "C"],
   technologies: {NULL}
-        framework: ["Metasploit", "Node-js", "Laravel"],
+        framework: ["Node-js", "Laravel"],
       }
     backEnd:
     databases: ["PostgreSQL", "MYSQL"],
