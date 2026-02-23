@@ -11,7 +11,7 @@ const aboutMe = {
   name: "TANMOY NASKAR",
   email: "tanmoyn681@gmail.com",
   languages: ["Python", "JavaScript", "C"],
-  technologies: {NULL}
+  technologies: {"Zero-Trust-Architecture(ZTA)", Advance Encryption Standards(AES), "Intrusion Detection and Prevention Systems (IDS/IPS)"}
         framework: ["Node-js", "Laravel"],
       }
     backEnd:
