@@ -2,7 +2,7 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+Science+Student;Open-Source+Contributor;Diploma+Computer+Science;1%2B+Years+in+Cybersecurity+Domain;Looking+For+Internship+And+Job+Oppurtunities)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=440&lines=Computer+Science+Student;Open-Source+Contributor;Diploma+Computer+Science;1%2B+Years+in+Cybersecurity+Domain;Looking+For+Internship+And+Job+Oppurtunities)
 
 ##  About Myself:
 
@@ -12,14 +12,14 @@ const aboutMe = {
   email: "tanmoyn681@gmail.com",
   languages: ["Python", "JavaScript", "C"],
   technologies: {NULL}
-        framework: ["Metasploit"],
+        framework: ["Metasploit", "Node-js", "Laravel"],
       }
     backEnd:
     databases: ["PostgreSQL", "MYSQL"],
     misc: {
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
-      packageManager: ["Apt", "Gdebi", "Snap"],
+      packageManager: ["Apt", "Gdebi", "Snap", "npm"],
       codeEditor: ["Visual Studio Code", "Sublime Text", "VIM","Nano"],
     },
   },
