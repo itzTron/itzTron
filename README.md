@@ -1,4 +1,4 @@
-# <img src="wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm TANMOY NASKAR, an aspiring Data and Cybersecurity Analyst!! 
+# <img src="wave.gif" alt="Hi" height="45" width="45"/> Hello, I'm TANMOY NASKAR, an aspiring Cyber Security Enthusiast!! 
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
