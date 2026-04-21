@@ -14,13 +14,13 @@ const aboutMe = {
   technologies: {"Zero-Trust-Architecture(ZTA)", Advance Encryption Standards(AES), "Intrusion Detection and Prevention Systems (IDS/IPS)"}
         framework: ["Node-js", "Laravel"],
       }
-    backEnd:
+    backEnd: ["Supabase", "MongoDB"]
     databases: ["PostgreSQL", "MYSQL"],
     misc: {
       serverless: ["Vercel", "Netlify"],
       versionControl: ["Git", "GitHub"],
-      packageManager: ["Apt", "Gdebi", "Snap", "npm"],
-      codeEditor: ["Visual Studio Code", "Sublime Text", "VIM","Nano"],
+      packageManager: ["Apt", "Gdebi", "Snap", "npm", "Choco"],
+      codeEditor: ["Visual Studio Code", "Sublime Text","Nano"],
     },
   },
   currentOccupation: "Student, open for internship & Job opportunities",
